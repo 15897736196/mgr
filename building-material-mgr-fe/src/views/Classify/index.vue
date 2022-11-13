@@ -2,11 +2,11 @@
     
     <div>
         
-        <a-card title="材料分类管理">
+        <a-card title="书籍分类管理">
 
             <div>
                 <a-input 
-                placeholder ="输入材料分类" 
+                placeholder ="输入书籍分类" 
                 style="width:200px; margin-right:24px;"
                 v-model:value="title"></a-input>
                 

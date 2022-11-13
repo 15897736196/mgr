@@ -4,7 +4,7 @@
         <a-card>
       <div class="list">
         <div class="item">
-          <div class="title">材料</div>
+          <div class="title">书籍</div>
           <div class="count">共{{ baseInfo.book }}项</div>
         </div>
         <div class="item">

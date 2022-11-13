@@ -1,6 +1,6 @@
 <template>
   <div>
-    <a-modal title="添加材料" 
+    <a-modal title="添加书籍" 
     ok-text='确认' cancel-text='取消' 
     :visible="props.show" 
     @ok="submit" @cancel='close'>
@@ -10,7 +10,7 @@
         :wrapper-col="{span: 16}"
       >
 
-        <a-form-item label="材料名">
+        <a-form-item label="书籍名">
           <a-input  v-model:value="addForm.name" />
         </a-form-item>
         <a-form-item label="价格" >

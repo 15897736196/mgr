@@ -1,0 +1,26 @@
+.list {
+  display: flex;
+}
+.list .item {
+  flex: 1;
+}
+.list .item .title {
+  color: #666;
+}
+.list .item .count {
+  color: black;
+  font-weight: 700;
+  font-size: 20px;
+}
+
+.table-list {
+  display: flex;
+  margin-top: 24px;
+}
+.table-list .left {
+  flex: 1;
+}
+.table-list .right {
+  flex: 1;
+  margin-left: 12px;
+}/*# sourceMappingURL=index.css.map */

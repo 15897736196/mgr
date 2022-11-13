@@ -1,19 +1,11 @@
 .base-info ul {
   padding-left: 0;
-  display: -webkit-box;
-  display: -ms-flexbox;
   display: flex;
 }
-
 .base-info ul li {
-  -webkit-box-flex: 1;
-      -ms-flex: 1;
-          flex: 1;
-  display: -webkit-box;
-  display: -ms-flexbox;
+  flex: 1;
   display: flex;
 }
-
 .base-info ul li .title {
   font-weight: 700;
   min-width: 60px;
@@ -21,5 +13,4 @@
 
 .log {
   margin-top: 24px;
-}
-/*# sourceMappingURL=index.css.map */
+}/*# sourceMappingURL=index.css.map */

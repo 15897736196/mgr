@@ -1,0 +1,9 @@
+.search {
+  width: 300px;
+  display: flex;
+  align-items: center;
+}
+.search a {
+  margin-left: 16px;
+  width: 35px;
+}/*# sourceMappingURL=index.css.map */
